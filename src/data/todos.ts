@@ -9,7 +9,7 @@ export const dummyData: Todo[] = [
     {
         id: 2,
         title: "좋아용",
-        completed: false
+        completed: true
     },
     {
         id: 3,
